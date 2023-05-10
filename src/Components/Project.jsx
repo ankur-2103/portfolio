@@ -14,7 +14,7 @@ const Project = ({data}) => {
           <div className='project-desc' >{data.desec}</div>
           </div>
           <div className='project-links' >
-          <a className='project-live' href={data.live}><img src={play} style={{width:'35px', margin:'5px'}} alt=''/>Live</a>
+          {data.live && <a className='project-live' href={data.live}><img src={play} style={{width:'35px', margin:'5px'}} alt=''/>Live</a>}
           <a className='project-code' href={data.code}><img src={code} style={{width:'35px', margin:'5px'}} alt=''/>Code</a>
           </div>
         </div>
