@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.979c5d46.css",
+    "main.js": "/portfolio/static/js/main.661521e4.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.91d5b064172b1bbb83e0.png",
+    "static/media/react.svg": "/portfolio/static/media/react.8a5e8c7643a1d629d60499763d4b3cfb.svg",
+    "static/media/weather-svgrepo-com.svg": "/portfolio/static/media/weather-svgrepo-com.d5865107290fea58eeec08f045427c31.svg",
+    "static/media/node.svg": "/portfolio/static/media/node.81e8504a9958904b1d2587073dde1793.svg",
+    "static/media/mongodb.svg": "/portfolio/static/media/mongodb.05b13c52de9b4af2e3ef2f193dea652a.svg",
+    "static/media/location-svgrepo-com.svg": "/portfolio/static/media/location-svgrepo-com.08b9827e7b70e58a1bdd64df80d8a1ef.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.0b34741ff79bdd32b4a11df3d1c81706.svg",
+    "static/media/express.svg": "/portfolio/static/media/express.5a94445b76db34c0dca5eb684b9e94c9.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.a3687056ccbc5802b6e2cacf54c06620.svg",
+    "static/media/route-svgrepo-com.svg": "/portfolio/static/media/route-svgrepo-com.d24ce26a2468e4d515b7490830180980.svg",
+    "static/media/transcript-svgrepo-com.svg": "/portfolio/static/media/transcript-svgrepo-com.126dc18a582178b54a0eafdb4067bb8d.svg",
+    "static/media/phone-svgrepo-com.svg": "/portfolio/static/media/phone-svgrepo-com.ba1687380a800b02194726bee7268c94.svg",
+    "static/media/leetcode-svgrepo-com.svg": "/portfolio/static/media/leetcode-svgrepo-com.e32ab465ecfe631638c35325e7e0af94.svg",
+    "static/media/github-svgrepo-com.svg": "/portfolio/static/media/github-svgrepo-com.404ff619057c051258a81f63d464629e.svg",
+    "static/media/email-svgrepo-com.svg": "/portfolio/static/media/email-svgrepo-com.432a085edc24c2a8622d6179be958bb4.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/portfolio/static/media/linkedin-svgrepo-com.c341cc1c307221b0fe42599c619ceeaf.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/play-circle-svgrepo-com.svg": "/portfolio/static/media/play-circle-svgrepo-com.f604354049a1c9ee264a824269d5a11a.svg",
+    "static/media/code-circle-svgrepo-com.svg": "/portfolio/static/media/code-circle-svgrepo-com.d07d1764d670534ce65a8968db62edb9.svg",
+    "main.979c5d46.css.map": "/portfolio/static/css/main.979c5d46.css.map",
+    "main.661521e4.js.map": "/portfolio/static/js/main.661521e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979c5d46.css",
+    "static/js/main.661521e4.js"
+  ]
+}
