@@ -1,5 +1,4 @@
 import React from 'react'
-import react from '../Img/route-svgrepo-com.svg'
 import play from '../Img/play-circle-svgrepo-com.svg'
 import code from '../Img/code-circle-svgrepo-com.svg'
 import './Project.css';

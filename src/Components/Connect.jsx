@@ -71,11 +71,11 @@ const Connect = () => {
         <div className='connect-div' >
           <form className='connect-form' ref={form}>
             <div className='connect-form-div'>
-              <div className='connect-form-div-title'>Name</div>
+              <div className='connect-form-div-title'>Your Name</div>
               <input className='connect-form-div-input' onChange={(e)=>setName(e.target.value)} value={name} type='text' name="user_name" spellCheck='false'/>
             </div>
             <div className='connect-form-div'>
-              <div className='connect-form-div-title'>Email</div>
+              <div className='connect-form-div-title'>Your Email</div>
               <input className='connect-form-div-input' onChange={(e)=>setEmail(e.target.value)} value={emailTxt} type='email' name="user_email" spellCheck='false'/>
             </div>
             <div className='connect-form-div'>
