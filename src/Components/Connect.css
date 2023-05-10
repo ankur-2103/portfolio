@@ -1,0 +1,146 @@
+.connect-container{
+    height: 100vh ;
+    display: flex ;
+    align-items: center ;
+    margin: 50px;
+    justify-content: center ;
+}
+
+.connect{
+    background:#036bfc;
+    border-radius:50px;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    width:100% ;
+    height:fit-content;
+    padding:28px;
+}
+
+.connect-title{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.connect-desc{
+    font-size: 20px;
+}
+
+.connect-div{
+    display: flex;
+    padding: 20px;
+}
+
+.connect-form{
+    flex: 2;
+}
+
+.connect-form-div{
+    margin: 20px 0px;
+}
+
+.connect-form-div-title{
+    font-size: 25px;
+}
+
+.connect-form-div-input{
+    width: 100% ;
+    font-size: 20px ;
+    background: transparent ;
+    color: white ;
+    border: none ;
+    outline: none ;
+    border-bottom: 2px solid white 
+}
+
+.connect-form-div-textarea{
+    resize: none ;
+    width: 100% ;
+    font-size: 25px ;
+    background: transparent ;
+    color: white ;
+    border: none ;
+    outline: none ;
+    border-bottom: 2px solid white 
+}
+
+.connect-span{
+    width: 2px;
+    background: white;
+    margin: 0px 40px;
+    flex:0.02;
+}
+
+.connect-contact{
+    flex:2;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center
+}
+
+.connect-element{
+    display: flex ;
+    align-items: center ;
+    justify-content: center ;
+    margin-bottom: 50px ;
+    font-size: 20px 
+}
+
+.connect-img{
+    width: 40px ;
+    margin: 10px ;
+    background-color: white ;
+    border-radius: 8px; 
+}
+
+.connect-location{
+    display: flex ;
+    align-items: center ;
+    justify-content: center ;
+    margin-bottom: 50px ;
+    font-size: 20px 
+}
+
+@media only screen and (max-width: 768px) {
+
+    .connect-container{
+        width: 100vw;
+        height: fit-content;
+        overflow: hidden;
+        margin: 40px 10px;
+    }
+
+    .connect{
+        padding: 25px;
+        margin: 0px 10px;
+    }
+
+    .connect-title{
+        font-size: 35px;
+        font-weight: 500;
+    }   
+    
+    .connect-span{
+        display: none;
+    }
+    
+    .connect-div{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .connect-contact{
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+
+    .connect-element{
+        margin: 0px 0px;
+        font-size: 15px;
+    }
+
+    .connect-img{
+        width: 30px;
+    }
+}
